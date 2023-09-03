@@ -11,7 +11,7 @@ enkinsfilepipeline {
                 echo 'Peter listen to me, you idiot!'
             }
         }
-        stage('Deploy') {
+        stage('Deploy1') {
             steps {
                 echo 'mj misses you'
             }
