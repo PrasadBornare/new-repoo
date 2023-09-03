@@ -16,7 +16,7 @@ enkinsfilepipeline {
                 echo 'mj misses you'
             }
         }
-        stage('Deploy') {
+        stage('Deploy2') {
             steps {
                 echo 'Venom gonna come for you'
             }
